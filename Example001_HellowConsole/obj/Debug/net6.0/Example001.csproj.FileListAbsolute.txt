@@ -1,0 +1,15 @@
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/bin/Debug/net6.0/Example001
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/bin/Debug/net6.0/Example001.deps.json
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/bin/Debug/net6.0/Example001.runtimeconfig.json
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/bin/Debug/net6.0/Example001.dll
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/bin/Debug/net6.0/Example001.pdb
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/obj/Debug/net6.0/Example001.csproj.AssemblyReference.cache
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/obj/Debug/net6.0/Example001.GeneratedMSBuildEditorConfig.editorconfig
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/obj/Debug/net6.0/Example001.AssemblyInfoInputs.cache
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/obj/Debug/net6.0/Example001.AssemblyInfo.cs
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/obj/Debug/net6.0/Example001.csproj.CoreCompileInputs.cache
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/obj/Debug/net6.0/Example001.dll
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/obj/Debug/net6.0/refint/Example001.dll
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/obj/Debug/net6.0/Example001.pdb
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/obj/Debug/net6.0/Example001.genruntimeconfig.cache
+/home/denis/Documents/GeekBrains/004 Знакомство с языками программирования/examples/Example001/obj/Debug/net6.0/ref/Example001.dll
